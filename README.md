@@ -35,4 +35,4 @@ but it's a good way to start understanding how logic and decision-making works i
 ## Contact
 
 - rashedalremeithi2005@gmail.com
-- GitHub: [alremeithi](https://github.com/alremeithi)
+- GitHub: [alremeithii](https://github.com/alremeithii)
